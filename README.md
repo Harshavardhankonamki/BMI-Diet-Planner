@@ -1,1 +1,1 @@
-# BMI-Diet-Planner
+# The BMI-Diet-Planner is an innovative tool designed to empower individuals on their journey to healthier living. By combining a user-friendly BMI (Body Mass Index) calculator with a personalized diet planner, this application provides tailored nutrition guidance to help users achieve their fitness goals effectively.
